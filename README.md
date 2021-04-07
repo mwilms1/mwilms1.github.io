@@ -4,7 +4,7 @@
                 _________________________________________________
 
 
-At a high level, if you to wanted create a web page on github with an image; you will want to do 5 things.
+At a high level, if you wanted to create a web page on github with an image; you will want to do 5 things.
 
 > Create an account on Github
 > Create a Repository Github
