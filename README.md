@@ -25,7 +25,7 @@ At a high level, if you wanted to create a web page on github with an image; you
     Once you have your folder created, you will want to copy and paste an image to it.
     -> I recommend using a photo that has .jpg extension (example photo name: photo.jpg)
 
-               ->  I was also recommend using a photo in size 1GB or less           (as github may not support the larger photo file sizes)
+               ->  I was also recommend using a photo in size 1GB or less (as github may not support the larger photo file sizes)
 
 5.  Add your code
     Once you have an image in your folder, you can add your code. To that you will want to > Create an index.html file (ex filename: index.html) > Add the below code to the index.html and save
