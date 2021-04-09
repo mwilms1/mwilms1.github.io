@@ -11,6 +11,7 @@ At a high level, if you wanted to create a web page on github with an image; you
 > Create a folder on your local mac or pc
 > Add your image
 > Add your code
+> Create a README.md file
 
 1.  Create an Account on Github
     To create an account on Github, you'll just > go to github.com > click "Sign Up" > fill in any info you're asked for > validate your account via email (to activate)
@@ -36,3 +37,5 @@ At a high level, if you wanted to create a web page on github with an image; you
     </html>
 
         *** Side note: Your img src, should equql your photo name shown above ***
+
+6. Create a README.md file and some text to it (Doesn't matter what it says; but it does appear to be required for page display.
